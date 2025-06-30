@@ -70,6 +70,7 @@ I’m Prathamkumar Sakariya, a passionate and self-driven frontend developer fro
 📬 Contact
 📧 Email: prathams54301@gmail.com
 
-🔗 LinkedIn: [Your LinkedIn URL]
+🔗 LinkedIn:www.linkedin.com/in/prathamkumar-sakariya-171851311
+
 
 🧑‍💻 GitHub: https://github.com/pratham54301
